@@ -1,2 +1,2 @@
 # Chess
-ASCII Chess board
+Chess played on a ASCII Chess board
